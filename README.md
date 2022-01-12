@@ -14,7 +14,7 @@
 
 - Desafio prático realizado na plataforma [Digital Innovation One](https://web.digitalinnovation.one/home "Digital Innovation One")
 - Foi Utilizado HTML, CSS e Javascript
-- Foi utilizado a biblioteca JQuery para fazer o carrosel
-- Adicionado Responsividade
+- Foi utilizado a biblioteca jQuery para fazer o carrossel
+- Adicionado responsividade
 
 <p/>
